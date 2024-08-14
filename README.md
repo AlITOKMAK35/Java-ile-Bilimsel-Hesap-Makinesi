@@ -37,16 +37,12 @@ Komut satırını açın ve dosyanın bulunduğu dizine gidin.
 
 Java dosyasını derlemek için şu komutu çalıştırın:
 
-bash
-Kodu kopyala
 javac Main.java
 
 Çalıştırma:
 
 Derlenmiş sınıf dosyasını çalıştırmak için şu komutu kullanın:
 
-bash
-Kodu kopyala
 java Main
 
 Kullanım
